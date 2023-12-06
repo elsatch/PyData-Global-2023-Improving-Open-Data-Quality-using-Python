@@ -1,0 +1,5 @@
+sweetviz
+pandas
+ipykernel
+great_expectations
+black
